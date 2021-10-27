@@ -5,5 +5,7 @@
   color: #fff;
 }
 
-
+.footer__column-links-text:hover {
+  color: rgb(110, 111, 114);
+}
 

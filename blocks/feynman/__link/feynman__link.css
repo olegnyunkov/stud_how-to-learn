@@ -6,3 +6,7 @@
   right: 48px;
   top: 50%;
 }
+
+.feynman__link:hover {
+  color: rgb(101, 156, 201);
+}
