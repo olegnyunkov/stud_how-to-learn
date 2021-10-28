@@ -3,3 +3,8 @@
   height: 38px;
   margin: 0;
 }
+
+.resources__logo:hover {
+  background-color: rgba(161, 164, 165, 0.184);
+  border-radius: 10px;
+}
