@@ -1,4 +1,5 @@
 .footer__column-links {
   margin: 0;
+  display: flex;
 }
 
